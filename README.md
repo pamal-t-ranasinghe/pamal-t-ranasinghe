@@ -10,7 +10,7 @@
 <a href="https://pamaljithranasinghe.dev"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/pamal-ranasinghe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/></a>
 <a href="mailto:pamalranasinghe464@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"/></a>
-<a href="https://github.com/pamal-t-ranasinghe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/></a>
+<!-- <a href="https://github.com/pamal-t-ranasinghe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/></a> -->
 
 </div>
 
