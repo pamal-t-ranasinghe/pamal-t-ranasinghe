@@ -1,100 +1,85 @@
-# Hi, I'm Pamaljith Ranasinghe 👋
+<div align="center">
 
-**Software Engineer** based in Colombo, Sri Lanka. I build full-stack systems and AI platforms where coding agents work alongside people.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pamaljith%20Ranasinghe&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Cloud%20%7C%20AI%20Agents&descSize=16&descAlignY=60" alt="header"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pamaljithranasinghe.dev-0A66C2?style=flat)](https://pamaljithranasinghe.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pamal--ranasinghe-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamal-ranasinghe)
-[![Email](https://img.shields.io/badge/Email-pamalranasinghe464%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pamalranasinghe464@gmail.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+reliable+backends;Designing+systems+that+scale;Teaching+AI+agents+to+code+the+right+way;Always+learning%2C+always+shipping" alt="typing"/></a>
 
----
+<br/>
 
-## About me
+<a href="https://pamaljithranasinghe.dev"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/pamal-ranasinghe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:pamalranasinghe464@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-- 5+ years building full-stack systems, from backend architecture and APIs to cloud deployments.
-- Owned the backend of a multi-tenant learning platform serving **20+ tenants**, shipped **12-15 features** end to end on schedule, and cut slow API responses from **~3-4 s to ~300 ms**.
-- Now working on **agentic engineering**: MCP servers, agent skills, and governed AI workflows with evaluation and human approvals.
-- Mentor junior developers through code reviews and design guidance.
-- Currently pursuing an **MSc in Artificial Intelligence** at the University of Moratuwa.
+</div>
 
 ---
 
-## Tech stack
+## 👨‍💻 About me
 
-| Area | Tools |
+I'm a software engineer from Sri Lanka 🇱🇰 with a passion for turning ideas into dependable software. I enjoy the full journey: designing clean architecture, building fast and secure APIs, shipping to the cloud, and exploring how AI agents can make developers more effective.
+
+> *"Make it work, make it right, make it fast."*
+
+---
+
+## 🎯 What drives me
+
+| | |
 | --- | --- |
-| **Languages** | PHP, Python, Java, JavaScript, TypeScript, HTML, CSS, SQL |
-| **Backend & APIs** | Laravel (Queues, Scheduler, Managers), FastAPI, Flask, REST, GraphQL, JWT, Rate Limiting, Idempotent APIs, Multi-Tenancy |
-| **Frontend** | React, TypeScript, Tailwind CSS, Vite, JavaFX, jQuery |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, SQLite |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, API Gateway, RDS, ElastiCache, SES, IAM, CloudWatch, Bedrock), Docker, nginx, CI/CD, Linux, Git |
-| **AI & Agentic Engineering** | MCP Servers, AI Agent Skills, Claude Code, Tool/Function Calling, Agentic Workflow Design, LLM Integration, Prompt Engineering, AI Evaluation & Governance |
-| **Integrations** | PayHere, Commercial Bank, Stripe, Google Pay, Bulk SMS & Email, Receipt Printers & Cash Drawers |
-| **Practices** | System Design, Concurrency, Offline-First Sync, OOP, SOLID, Design Patterns, Agile/Scrum, Code Reviews |
+| 🏗️ **Solid architecture** | Clean, modular code that stays easy to change |
+| ⚡ **Performance** | Fast responses and smart caching |
+| 🔐 **Security & reliability** | Systems that stay safe and recover gracefully |
+| ☁️ **Cloud** | Scalable, automated deployments |
+| 🤖 **Agentic AI** | Governed, tested AI that works with people |
+| 📚 **Learning** | Pursuing an MSc in Artificial Intelligence |
 
 ---
 
-## Featured projects
+## 🧰 Tech I work with
 
-### 🎓 ClassHub: Social Learning Platform for Tuition Classes *(in development)*
+**Languages**
 
-A platform for tuition classes in Sri Lanka.
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-**Stack:** Laravel (PHP 8.3), MySQL, Redis, AWS S3, React 19, TypeScript, Tailwind CSS, Vite, Docker, nginx
+**Backend & Frontend**
 
-- **Architecture:** layered backend (controllers, services, repositories) that separates request handling, business rules and database access.
-- **Patterns:** request validation classes, a standard result object for service responses, and a Manager pattern for swappable SMS gateways (Text.lk).
-- **Security:** JWT authentication with token refresh, and rate limits on login, registration and read/write traffic.
-- **Reliability:** idempotent writes (a unique request key, a lock, and a 24-hour saved-response cache per user and route) and request-ID tracing linked to structured error logs.
-- **Async & caching:** Redis caching and locks; queued jobs with retries, timeouts and failure handling; scheduler and queues for bulk SMS and email campaigns.
-- **Payments:** PayHere integration with subscription and pay-as-you-go billing models.
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
-### 🧾 BillBook: Windows POS & Inventory System *(v1.3.9)*
+**Databases**
 
-A desktop point-of-sale system that keeps working when the internet drops.
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-**Stack:** Java, JavaFX, SQLite, PostgreSQL, JDBC, Maven, ESC/POS thermal printing
+**Cloud & DevOps**
 
-- **Concurrency:** the UI thread stays free while background worker threads handle slow work and hand results back to the screen safely.
-- **Thread safety:** a single-thread print queue prints receipts in order without blocking the cashier; a lock lets one transaction at a time use the shared database connection.
-- **Receipt printing:** receipts sized for 58/80 mm paper rolls, background printer warm-up, and Code 128 / EAN-13 barcode generation.
-- **Cash drawer:** drawer-open signals sent directly to the printer, with a shared print lock so they never corrupt a receipt.
-- **Offline detection:** a watcher thread checks the hosted PostgreSQL every 3-5 s and shows whether the system is local, online or offline.
-- **Offline sync:** offline bills queue in a local SQLite store and upload in order with their original time and cashier; failed bills are kept with the reason for retry; offline sign-in uses salted password hashes valid for 30 days.
-- **Integrity:** all-or-nothing transactions with rollback, audit entries written in the same transaction, role-based access, background backups written atomically, and in-place schema migrations.
-- **Delivery:** Maven build and Windows installer, in-app updates from GitHub Releases verified by SHA-256, and Sinhala/Tamil item names with built-in transliteration.
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-### 🤖 Spine: Governed AI Engineering Platform *(work project, Limark Technologies)*
+**AI & Agents**
 
-- Expert-labelled golden sets act as both specification and CI/CD regression gate, with auditable human approvals and shared guardrails and evaluation.
-- Built the Spine MCP server (Python FastMCP) and reusable agent skills, so AI coding agents such as Claude Code can retrieve approved golden sets and apply them while building and reviewing code.
-- Services built with FastAPI and MongoDB on AWS (Lambda, S3, Bedrock), plus a React portal.
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/LLM_Integration-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge"/>
 
 ---
 
-## Experience
+## 📊 GitHub at a glance
 
-| Role | Company | Period |
-| --- | --- | --- |
-| Software Engineer (Full-Stack) | Limark Technologies | May 2026 - Present |
-| Software Engineer (Full-Stack) | Creative Software (Creative E-Learning) | May 2024 - Apr 2026 |
-| Associate Software Engineer | Wijeya Newspapers Ltd | Nov 2022 - Apr 2024 |
-| Trainee Software Engineer | Global Edulink | Mar 2022 - Oct 2022 |
-| Trainee Software Engineer | Binary Technologies International | Jun 2021 - Dec 2021 |
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pamal-t-ranasinghe&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamal-t-ranasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
 
-## Education and publication
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pamal-t-ranasinghe&theme=tokyonight&hide_border=true" alt="streak"/>
 
-- **MSc in Artificial Intelligence**, University of Moratuwa (2026 - Present)
-- **BSc (Hons) in Information Technology, Software Engineering**, SLIIT (2023)
-- 📄 [E-Learning Assistive System for Deaf and Mute Students](https://ieeexplore.ieee.org/document/10025212) (IEEE)
+</div>
 
 ---
 
-## Let's connect
+## 🤝 Let's connect
 
-- 🌐 Portfolio: [pamaljithranasinghe.dev](https://pamaljithranasinghe.dev)
-- 💼 LinkedIn: [pamal-ranasinghe](https://www.linkedin.com/in/pamal-ranasinghe)
-- 📧 Email: [pamalranasinghe464@gmail.com](mailto:pamalranasinghe464@gmail.com)
+I'm always happy to talk about backend design, cloud, AI agents, or new opportunities.
 
-I'm open to software engineering opportunities, especially roles that combine backend engineering with AI and agentic systems.
+<div align="center">
+
+📍 Colombo, Sri Lanka &nbsp;•&nbsp; 🌐 [pamaljithranasinghe.dev](https://pamaljithranasinghe.dev) &nbsp;•&nbsp; 📧 [pamalranasinghe464@gmail.com](mailto:pamalranasinghe464@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer"/>
+
+</div>
