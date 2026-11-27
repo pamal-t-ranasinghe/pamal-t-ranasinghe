@@ -1,9 +1,9 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Pamaljith%20Ranasinghe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Backend-Leaning%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Agents&descSize=16&descAlignY=62" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Pamaljith%20Ranasinghe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Agents&descSize=16&descAlignY=62" alt="header banner"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+backends;Designing+systems+that+scale;Teaching+AI+agents+to+code+the+right+way;Always+learning%2C+always+shipping" alt="typing animation"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+full-stack+products;Designing+systems+that+scale;Teaching+AI+agents+to+code+the+right+way;Always+learning%2C+always+shipping" alt="typing animation"/></a>
 
 <br/><br/>
 
@@ -19,26 +19,29 @@
 
 ```yaml
 name: Pamaljith Ranasinghe
-role: Full-Stack Software Engineer (leaning backend)
+role: Full-Stack Software Engineer
 location: Colombo, Sri Lanka 🇱🇰
 education: MSc in Artificial Intelligence (in progress)
 
 focus:
-  - Secure, fast, multi-tenant APIs
+  - End-to-end product engineering, from database to UI
+  - Secure, fast, multi-tenant APIs and polished interfaces
   - Reliable systems: safe retries, caching, queues, rate limits
-  - Concurrent and offline-first applications
   - Cloud delivery with containers and Kubernetes
   - Agentic engineering: MCP servers, agent skills, governed AI
 
 how_i_build:
-  architecture: layered, modular, easy to change
-  reliability: idempotent writes, Redis locks, request-ID tracing
-  concurrency: background workers, print queues, safe transactions
-  offline: store-and-forward sync, salted offline sign-in, audit logs
-  delivery: Docker, CI/CD, verified auto-updates
+  architecture: layered and modular, with clear separation of concerns (SOLID, design patterns)
+  api_design: REST and GraphQL, JWT auth with refresh, role-based access, rate limiting, schema validation
+  data: relational and NoSQL modelling, indexing, query optimization, transactions, Redis caching and locks
+  reliability: idempotent endpoints, queued jobs with retries, request tracing, structured logging
+  frontend: component-driven React and TypeScript, typed API contracts, responsive UI with Tailwind CSS
+  multi_tenancy: shared middleware for auth, tenancy, logging and error handling
+  cloud_and_delivery: Docker, Kubernetes, AWS, CI/CD pipelines, automated and repeatable deployments
+  quality: code reviews, automated testing, evaluation gates, observability
 
 currently_exploring: [Agentic AI, MCP, Kubernetes, System Design, Machine Learning]
-open_to: Software engineering roles where backend meets AI
+open_to: Full-stack engineering roles, especially where product meets AI
 ```
 
 <!-- ========== TOOLS ========== -->
@@ -71,14 +74,6 @@ open_to: Software engineering roles where backend meets AI
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=pamal-t-ranasinghe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamal-t-ranasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamal-t-ranasinghe/pamal-t-ranasinghe/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamal-t-ranasinghe/pamal-t-ranasinghe/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pamal-t-ranasinghe/pamal-t-ranasinghe/output/github-snake.svg" />
-</picture>
 
 </div>
 
